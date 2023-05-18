@@ -1,11 +1,11 @@
 # Imbalanced-Data
 Sampling+StackingEnsemble
+* 라벨링 불균형 데이터 처리
 
+  이진분류 문제에서 target에서 1의 비율이 4%로 불균형이 매우 심한 경우
+  Kaggle - Porto Seguro’s Safe Driver Prediction 데이터 사용
+  (https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction)
 
-## 라벨링 불균형 데이터 처리
-이진분류 문제에서 target에서 1의 비율이 4%로 불균형이 매우 심한 경우
-Kaggle - Porto Seguro’s Safe Driver Prediction 데이터 사용
-(https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction)
 
 
 ### 다양한 샘플링 시도
